@@ -1,0 +1,72 @@
+[
+	{
+		"Id": "fwippy.champagnewishes1",
+		"GroupID": "ChampagneWishes.CookingRecipe",
+		"Title": "Champagne Salad Recipe",
+		"Text": "champagnesalad.text",
+		"Recipe": "Salad with Champagne Vinaigrette",
+		"LetterBG": null,
+		"Date": "1 spring Y3",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Leah", "FriendshipLevel": 6 }
+		],
+	},
+	{
+		"Id": "fwippy.champagnewishes2",
+		"GroupID": "ChampagneWishes.CookingRecipe",
+		"Title": "Champagne Cocktail Recipe",
+		"Text": "champagnecocktail.text",
+		"Recipe": "Champagne Cocktail",
+		"LetterBG": null,
+		"Date": "28 winter Y2",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Jodi", "FriendshipLevel": 8 }
+		],
+	},
+	{
+		"Id": "fwippy.champagnewishes3",
+		"GroupID": "ChampagneWishes.CookingRecipe",
+		"Title": "Black Velvet Cocktail Recipe",
+		"Text": "blackvelvetcocktail.text",
+		"Recipe": "Black Velvet Cocktail",
+		"LetterBG": null,
+		"Date": "1 spring Y3",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Shane", "FriendshipLevel": 8 }
+		],
+	},
+	{
+		"Id": "fwippy.champagnewishes4",
+		"GroupID": "ChampagneWishes.CookingRecipe",
+		"Title": "Kir Imperial Recipe",
+		"Text": "kirimperial.text",
+		"Recipe": "Kir Imperial",
+		"LetterBG": null,
+		"Date": "1 summer Y3",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Robin", "FriendshipLevel": 8 }
+		],
+	},
+	{
+		"Id": "fwippy.champagnewishes5",
+		"GroupID": "ChampagneWishes.CookingRecipe",
+		"Title": "Kir Royal Recipe",
+		"Text": "kirroyal.text",
+		"Recipe": "Kir Royal",
+		"LetterBG": null,
+		"Date": "1 summer Y3",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Emily", "FriendshipLevel": 8 }
+		],
+	},
+]

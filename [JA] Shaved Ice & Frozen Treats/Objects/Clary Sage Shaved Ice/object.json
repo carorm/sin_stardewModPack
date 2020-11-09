@@ -1,0 +1,17 @@
+{
+  "Name": "Clary Sage Shaved Ice",
+  "Description": "Shaved ice doused in mild clary sage syrup.",
+  "Category": "ArtisanGoods",
+  "Edibility": 48,
+  "Price": 250,
+  "IsColored": false,
+  "Recipe": null,
+   "GiftTastes":
+    {
+        "Love": ["Wizard"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy"],
+	"Neutral": ["Jodi", "Leah"],    
+	"Dislike": ["Jas", "Vincent"],
+    },
+    "EnableWithMod": "Fwippy.SodaMakerFlowerPackJA",
+}

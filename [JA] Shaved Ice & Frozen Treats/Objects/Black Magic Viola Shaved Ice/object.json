@@ -1,0 +1,17 @@
+{
+  "Name": "Black Magic Viola Shaved Ice",
+  "Description": "Shaved ice doused in sweet black magic viola syrup.",
+  "Category": "ArtisanGoods",
+  "Edibility": 48,
+  "Price": 250,
+  "IsColored": false,
+  "Recipe": null,
+   "GiftTastes":
+    {
+        "Love": ["Abigail", "Dwarf", "Krobus", "Wizard"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Evelyn", "George", "Gus", "Kent", "Linus", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+        "Neutral": ["Harvey", "Haley", "Jodi", "Leah", "Emily", "Pam"],
+        "Dislike": ["Lewis", "Sam", "Jas"],
+  },
+  "EnableWithMod": "amburr.spoopyvalley"
+}

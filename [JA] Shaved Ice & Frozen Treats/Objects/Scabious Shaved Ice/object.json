@@ -1,0 +1,17 @@
+{
+  "Name": "Scabious Shaved Ice",
+  "Description": "Shaved ice doused in bittersweet scabious syrup.",
+  "Category": "ArtisanGoods",
+  "Edibility": 48,
+  "Price": 250,
+  "IsColored": false,
+  "Recipe": null,
+   "GiftTastes":
+    {
+  	"Love": ["George", "Harvey", "Maru", "Shane"],
+	"Like": ["Caroline", "Abigail", "Clint", "Sebastian", "Wizard", "Dwarf", "Elliott", "Krobus", "Lewis", "Linus", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Demetrius", "Alex", "Emily", "Evelyn", "Gus", "Kent", "Marnie", "Sam", "Willy" ],
+        "Neutral": ["Jodi", "Leah"],
+	"Dislike": ["Haley", "Jas", "Vincent"],
+    },
+    "EnableWithMod": "Fwippy.SodaMakerFlowerPackJA",
+}

@@ -1,0 +1,57 @@
+{
+    "Name": "Beast n' Onion Handpie",
+    "Description": "A crisp pasty stuffed with delicious minced beast meat.",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "Price": 685,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Cooked Beast Meat",
+            "Count": 1,
+        },
+        {
+            "Object": 399,
+            "Count": 2,
+        },
+        {
+            "Object": "Batter",
+            "Count": 1,
+        }, ],
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 725,
+        "PurchaseRequirements": ["y 3"],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "야생고기 양파 핸드파이",
+        // "de": "",
+        // "fr": "",
+        "hu": "Vadhúsos-hagymás papucs",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "野兽洋葱手馅饼",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "다진 야생짐승 고기를 속에 채운 바삭한 파이.",
+        // "de": "",
+        // "fr": "",
+        "hu": "Egy ropogós péksütemény ízletes darált hússal töltve.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "一个酥脆的馅饼，里面塞满了美味的绞碎的野兽肉。",
+    },    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "Violet Shaved Ice",
+  "Description": "Shaved ice doused in sweet violet syrup.",
+  "Category": "ArtisanGoods",
+  "Edibility": 48,
+  "Price": 250,
+  "IsColored": false,
+  "Recipe": null,
+   "GiftTastes":
+    {
+        "Love": ["Abigail", "Evelyn", "Krobus"],
+        "Like": ["Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Gus", "Haley", "Harvey", "Jas", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Penny", "Pierre", "Pam", "Sandy", "Robin", "Sam", "Shane", "Vincent", "Willy", "Wizard"],
+	"Neutral": ["Jodi", "Leah"],
+	"Dislike": ["Clint", "George", "Sebastian"],
+    },
+    "EnableWithMod": "Fwippy.SodaMakerFlowerPackJA",
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "Ancient Flower Shaved Ice",
+  "Description": "Shaved ice doused in musty ancient flower syrup.",
+  "Category": "ArtisanGoods",
+  "Edibility": 48,
+  "Price": 250,
+  "IsColored": false,
+  "Recipe": null,
+   "GiftTastes":
+    {
+  	"Love": ["Demetrius", "Dwarf", "Krobus", "Haley", "Emily", "Evelyn", "Elliott", "Penny", "Robin", "Wizard"],
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Gus", "Harvey", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Pierre", "Sam", "Sandy", "Sebastian", "Shane", "Willy"],
+	"Neutral": ["George", "Haley", "Jas", "Jodi", "Leah"],
+	"Dislike": ["Kent", "Vincent"],
+    },
+    "EnableWithMod": "Fwippy.SodaMakerFlowerPackJA",
+}

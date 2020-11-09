@@ -1,0 +1,84 @@
+{
+  "WeatherForYesterday": "Sunny",
+  "LNOSCounter": {},
+  "ExistingObjectLocations": {},
+  "SavedObjects": [
+    {
+      "MapName": "Desert",
+      "Name": "Coconut",
+      "Tile": "42, 30",
+      "Type": "Forage",
+      "ID": 88,
+      "DaysUntilExpire": 6,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Backwoods",
+      "Name": null,
+      "Tile": "32, 17",
+      "Type": "Forage",
+      "ID": 257,
+      "DaysUntilExpire": 2,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Mountain",
+      "Name": "Strawberry",
+      "Tile": "132, 8",
+      "Type": "Forage",
+      "ID": 400,
+      "DaysUntilExpire": 6,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Mountain",
+      "Name": "Strawberry",
+      "Tile": "27, 33",
+      "Type": "Forage",
+      "ID": 400,
+      "DaysUntilExpire": 6,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Woods",
+      "Name": "Rice Shoot",
+      "Tile": "49, 15",
+      "Type": "Forage",
+      "ID": 273,
+      "DaysUntilExpire": 6,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Woods",
+      "Name": "Morel",
+      "Tile": "34, 6",
+      "Type": "Forage",
+      "ID": 257,
+      "DaysUntilExpire": 6,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Forest",
+      "Name": "Garlic",
+      "Tile": "41, 95",
+      "Type": "Forage",
+      "ID": 248,
+      "DaysUntilExpire": 6,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    }
+  ]
+}

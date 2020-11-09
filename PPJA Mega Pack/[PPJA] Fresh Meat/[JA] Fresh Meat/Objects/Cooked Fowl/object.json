@@ -1,0 +1,64 @@
+{
+    "Name": "Cooked Fowl",
+    "Description": "Meat from a bird, already cooked and ready to be used in recipes.",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "Price": 175,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Fowl",
+            "Count": 1,
+        },
+        {
+            "Object": "Seasonings",
+            "Count": 1,
+        }, ],
+        "IsDefault": true,
+    },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 200,
+    "PurchaseRequirements": null,
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "구운 새고기",
+        // "de": "",
+        // "fr": "",
+        "hu": "Sült vadmadár",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "熟制飞禽肉",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "가금류의 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
+        // "de": "",
+        // "fr": "",
+        "hu": "Egy madár húsa megsütve, felhasználásra készen.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "来自鸟类的肉，已经煮熟，可以用于烹饪。",
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ],    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"  
+}

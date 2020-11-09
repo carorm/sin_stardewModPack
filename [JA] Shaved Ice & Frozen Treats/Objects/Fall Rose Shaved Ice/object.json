@@ -1,0 +1,17 @@
+{
+  "Name": "Fall Rose Shaved Ice",
+  "Description": "Shaved ice doused in sweet fall rose syrup.",
+  "Category": "ArtisanGoods",
+  "Edibility": 48,
+  "Price": 250,
+  "IsColored": false,
+  "Recipe": null,
+   "GiftTastes":
+    {
+	"Love": ["Abigail", "Jas", "Robin"],
+        "Like": ["Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+	"Neutral": ["Jodi", "Leah"],    
+	"Dislike": ["Clint", "George"],
+    },
+    "EnableWithMod": "Fwippy.SodaMakerFlowerPackJA",
+}

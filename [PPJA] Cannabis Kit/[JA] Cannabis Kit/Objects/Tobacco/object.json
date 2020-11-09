@@ -1,0 +1,41 @@
+{
+    "Name": "Tobacco",
+    "Description": "A plant that has been cultivated for smoking purposes",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 35,
+    "IsColored": false,
+    "Recipe": null,
+    "NameLocalization":
+    {
+         "es": "Tabaco",
+         // "ko": "",
+         "de": "Tabak",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         "pt": "Tabaco",
+         // "ru": "",
+         // "tr": "",
+         "zh": "烟草",
+    },
+    "DescriptionLocalization":
+    {
+         "es": "Una planta que ha sido cultivada para fumar.",
+         // "ko": "",
+         "de": "Eine Pflanze, die zu Räucherzwecken kultiviert wurde",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         "pt": "Uma planta que é cultivada para o fumo.",
+         // "ru": "",
+         // "tr": "",
+         "zh": "一种以吸烟为目的才被耕种的植物。",
+    },
+    "ContextTags": [
+        "season_spring",
+        "season_summer"
+    ]
+}

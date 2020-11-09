@@ -1,0 +1,17 @@
+{
+  "Name": "Queen of the Night Tulip Shaved Ice",
+  "Description": "Shaved ice doused in mild queen of the night tulip syrup.",
+  "Category": "ArtisanGoods",
+  "Edibility": 48,
+  "Price": 250,
+  "IsColored": false,
+  "Recipe": null,
+   "GiftTastes":
+    {
+        "Love": ["Abigail", "Dwarf", "Krobus", "Sebastian", "Wizard"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Evelyn", "George", "Gus", "Kent", "Linus", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy"],
+        "Neutral": ["Emily", "Harvey", "Haley", "Jodi", "Leah", "Pam"],
+        "Dislike": ["Lewis", "Sam", "Vincent", "Jas"],
+  },
+  "EnableWithMod": "amburr.spoopyvalley"
+}

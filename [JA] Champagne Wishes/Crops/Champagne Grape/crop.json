@@ -1,0 +1,52 @@
+{
+    "Name": "Champagne Grape",
+    "Product": "Champagne Grape",
+    "SeedName": "Champagne Grape Trellis",
+    "SeedDescription": "Plant these in the spring. Takes 12 days to mature, afterwards it continues to produce every 3 days.",
+    "Type": "Fruit",
+    "Seasons": ["spring"],
+    "Phases": [1, 2, 3, 3, 3],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 4,
+        "ExtraChance": 0.4,
+    },
+    "SeedPurchaseFrom": "Pierre",
+    "SeedPurchasePrice": 175,
+    "SeedPurchaseRequirements": [
+        "y 3",
+    ],
+  "SeedNameLocalization": { 
+		// "es": "",
+		"ko": "샴페인 포도 씨앗",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "SeedDescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "봄 작물. 완전히 자라는데 12일 걸립니다. 3일마다 수확할 수 있습니다.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    }  
+}

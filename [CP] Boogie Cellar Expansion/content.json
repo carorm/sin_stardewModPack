@@ -1,0 +1,34 @@
+{
+    "Format": "1.18.0",
+	"ConfigSchema": {
+        "Activate": {
+            "AllowValues": "true, false",
+            "Default": "true"
+        },
+        "No Decoration": {
+            "AllowValues": "true, false",
+            "Default": "true"
+        }
+    },
+    "Changes": [
+        {
+        "Action": "Load",
+        "Target": "Maps/Cellar",
+        "FromFile": "assets/Cellar.tbin",
+		"When": {
+			"Activate": "true"
+            }
+        },
+		{
+        "Action": "EditMap",
+        "Target": "Maps/Cellar",
+        "FromFile": "assets/Decoration.tbin",
+        "FromArea": { "X": 16, "Y": 5, "Width": 23, "Height": 12 },
+        "ToArea": { "X": 16, "Y": 5, "Width": 23, "Height": 12 },
+        "When": {
+			"No Decoration": "true",
+			"Activate": "true"
+            }
+		}
+    ]
+}
