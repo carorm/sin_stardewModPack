@@ -1,0 +1,450 @@
+Custom Shop Name:Nightmare's Weapon Collection
+Weapons for sale
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+53
+Price
+5000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+54
+Price
+8000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+55
+Price
+2000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+56
+Price
+8200
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+57
+Price
+15000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+58
+Price
+28000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+59
+Price
+90000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+60
+Price
+500
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+61
+Price
+600
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+62
+Price
+7000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+63
+Price
+7000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+64
+Price
+9000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+65
+Price
+9200
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+66
+Price
+15000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+67
+Price
+70000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+68
+Price
+5000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+69
+Price
+8000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+70
+Price
+9000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+71
+Price
+12000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+72
+Price
+17500
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+73
+Price
+25000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+74
+Price
+85000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+75
+Price
+95000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+76
+Price
+110000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+77
+Price
+115000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+78
+Price
+120000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+79
+Price
+5000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+80
+Price
+6500
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+81
+Price
+7000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+82
+Price
+11000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+83
+Price
+13000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+84
+Price
+14500
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+85
+Price
+15500
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+86
+Price
+16000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+87
+Price
+19000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+88
+Price
+22000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+89
+Price
+25000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+90
+Price
+32000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+91
+Price
+45000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+92
+Price
+45000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+93
+Price
+42000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+94
+Price
+46000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+95
+Price
+52000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+96
+Price
+64000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+97
+Price
+98000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+98
+Price
+70000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+99
+Price
+70000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+100
+Price
+74000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+101
+Price
+85000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+102
+Price
+85000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+103
+Price
+88000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+104
+Price
+88000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+105
+Price
+95000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+106
+Price
+100000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+107
+Price
+12000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+108
+Price
+15000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+109
+Price
+28000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+110
+Price
+30000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+111
+Price
+15000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+112
+Price
+2000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+113
+Price
+5000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+114
+Price
+10000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+115
+Price
+7000
+========================NEW ITEM======================
+Object_Type
+Sword
+Object ID
+116
+Price
+100000
